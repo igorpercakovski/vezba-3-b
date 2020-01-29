@@ -1,0 +1,7 @@
+Vtoriot del od tretata vezba se sostoi od da se razdeli pocetniot fajl na dva 
+so ID>15 i ID<15
+
+1. Snap file reader i exel parcer za procesiranje na fajlot
+2. snap router za generiranje na dva zasebni fajla so uslov kade na edniot se ID<15
+a na drugiot ID>15
+3.snapovi exel formatter i file writter za zapisuvanje na novite fajlovi
